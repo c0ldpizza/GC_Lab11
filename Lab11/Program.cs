@@ -10,6 +10,8 @@ namespace Lab11
     {
         static void Main(string[] args)
         {
+            //Student s1 = new Student("Charlie Lambrecht", "2321 Brooklyn Ave.", "C#/.NET", 1, 100000.00);
+            //Student s2 = new Student("Light Yagami", "Japan", "High School", 4, 1600.00);
         }
     }
 }

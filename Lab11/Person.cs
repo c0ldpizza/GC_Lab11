@@ -8,8 +8,8 @@ namespace Lab11
 {
     class Person
     {
-        public string name;
-        public string address;
+        private string name;
+        private string address;
 
         public string Name
         {
