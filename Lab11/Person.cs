@@ -8,8 +8,8 @@ namespace Lab11
 {
     class Person
     {
-        private string name;
-        private string address;
+        public string name;
+        public string address;
 
         public string Name
         {
@@ -46,6 +46,11 @@ namespace Lab11
         {
             this.name = name;
             this.address = address;
+        }
+
+        public Person()
+        {
+
         }
     }
 }
