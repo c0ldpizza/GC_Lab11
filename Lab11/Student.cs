@@ -58,8 +58,8 @@ namespace Lab11
 
         public Student(string name, string address, string program, int year, double fee)
         {
-            this.name = name;
-            this.Address = address;
+            Name = name;
+            Address = address;
             this.program = program;
             this.year = year;
             this.fee = fee;
