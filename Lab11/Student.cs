@@ -64,5 +64,10 @@ namespace Lab11
             this.year = year;
             this.fee = fee;
         }
+
+        public Student()
+        {
+
+        }
     }
 }

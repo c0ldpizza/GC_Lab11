@@ -49,5 +49,10 @@ namespace Lab11
             this.school = school;
             this.pay = pay;
         }
+
+        public Staff()
+        {
+
+        }
     }
 }
